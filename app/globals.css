@@ -543,7 +543,7 @@ html {
   }
   
   .carousel-track {
-    animation: carousel 20s linear infinite !important;
+    animation: carousel 15s linear infinite !important;
   }
 }
 
@@ -553,7 +553,7 @@ html {
   }
   
   .carousel-track {
-    animation: carousel 18s linear infinite !important;
+    animation: carousel 12s linear infinite !important;
   }
 }
 
@@ -633,7 +633,7 @@ html {
   }
   
   .category-carousel-track {
-    animation: categoryCarousel 28s linear infinite !important;
+    animation: categoryCarousel 20s linear infinite !important;
   }
 }
 
@@ -643,7 +643,7 @@ html {
   }
   
   .category-carousel-track {
-    animation: categoryCarousel 22s linear infinite !important;
+    animation: categoryCarousel 16s linear infinite !important;
   }
 }
 
