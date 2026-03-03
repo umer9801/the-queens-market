@@ -48,7 +48,7 @@ export default function About() {
       <Navigation />
       <main>
         {/* Hero Section */}
-        <section className="pt-32 pb-20 px-4 sm:px-6 lg:px-8 bg-cover bg-center bg-no-repeat relative overflow-hidden" style={{ backgroundImage: 'url(/about-illustration.jpg)' }}>
+        <section className="pt-32 pb-20 px-4 sm:px-6 lg:px-8 bg-cover bg-center bg-no-repeat relative overflow-hidden" style={{ backgroundImage: 'url(/about.png)' }}>
           <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-black/35 to-black/50 pointer-events-none" />
           
           {/* Animated Background Elements */}
@@ -76,7 +76,7 @@ export default function About() {
           <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
             <div className="relative h-96 rounded-3xl overflow-hidden shadow-2xl group">
               <Image
-                src="/about-illustration.jpg"
+                src="/about.png"
                 alt="Our store story"
                 fill
                 className="object-cover group-hover:scale-110 transition-transform duration-700"
